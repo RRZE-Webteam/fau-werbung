@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FAU Werbung v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-04 16:57:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: fau-werbung.php:73
+#: fau-werbung.php:175
+#@ fau-werbung
+msgid "Werbung"
+msgstr "Advertising"
+
+#: fau-werbung.php:135
+#, php-format
+#@ fau-werbung
+msgid "Ihre PHP-Version %s ist veraltet. Bitte aktualisieren Sie mindestens auf die PHP-Version %s."
+msgstr "Your PHP version %s is too old. Please update at least to version %s."
+
+#: fau-werbung.php:139
+#, php-format
+#@ fau-werbung
+msgid "Ihre Wordpress-Version %s ist veraltet. Bitte aktualisieren Sie mindestens auf die Wordpress-Version %s."
+msgstr "Your wordpress version %s is too old. Please update at least to version %s."
+
+#: fau-werbung.php:160
+#@ fau-werbung
+msgid "Werbung von Adition/Universi einbinden"
+msgstr "Insert advertising from adition."
+
+#: fau-werbung.php:183
+#@ fau-werbung
+msgid "Werbe-ID"
+msgstr "Adition-ID"
+
+#: fau-werbung.php:191
+#@ fau-werbung
+msgid "Hinweistitel"
+msgstr "Title/Notice declaring advertising"
+
+#: fau-werbung.php:195
+#@ fau-werbung
+msgid "URL über Werbeinfo (Optional)"
+msgstr "URl for notice towards advertising (optional)"
+
+#: fau-werbung.php:199
+#@ fau-werbung
+msgid "CSS-Klasse (Optional)"
+msgstr "CSS Class (optional)"
+
+#: fau-werbung.php:209
+#@ fau-werbung
+msgid "verwende Standard-HTML-Rahmen um Werbung"
+msgstr "Using HTML Standard frame"
+
+#: fau-werbung.php:218
+#@ fau-werbung
+msgid "Nutze SSL-Adressen für Werbung"
+msgstr "Use SSL-URLs"
+
+#: fau-werbung.php:187
+#@ fau-werbung
+msgid "Geben Sie hier die ID-Nummer ein, die für die jeweilige Werbeeinblendung genutzt werden soll. Diese ID erhalten Sie von Adition, bzw. finden Sie in dem HTML-Code, den Sie zum Einbau in ihrer Website von Adition erhalten haben."
+msgstr "Insert the ID number of the advertising, You wil find it in the source code you got from adition after the part \\\"...?wp_id=\\\" ."
+
